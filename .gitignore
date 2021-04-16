@@ -1,0 +1,11 @@
+node_modules
+/node_modules/
+/coverage/
+/dist/
+
+.idea
+.nyc_output
+
+# Config
+dev.config.js
+/config/jest/globalConfig.json
